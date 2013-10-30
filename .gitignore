@@ -3,6 +3,7 @@
 .project
 .settings/
 target/
+src/main/resources/main/*.properties
 
 # Package Files #
 *.jar
